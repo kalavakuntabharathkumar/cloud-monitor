@@ -1,0 +1,6 @@
+{
+  "cpu": 85,
+  "memory": 85,
+  "disk": 90,
+  "poll_interval_seconds": 60
+}
