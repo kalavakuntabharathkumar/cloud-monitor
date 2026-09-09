@@ -1,0 +1,2 @@
+# Run the monitor every minute
+* * * * * /usr/bin/bash /absolute/path/to/project/scripts/run_monitor.sh >> /absolute/path/to/project/logs/cron.log 2>&1
